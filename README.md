@@ -1,4 +1,7 @@
-# UKCA data pre- and post-processing scripts, as well as data visualsation for TRANSCOM-VSLS multi-model intercomparison study
+# UKCA data visualisation, pre- and post-processing scripts for TRANSCOM-VSLS multi-model intercomparison study
+
+
+See [Hossaini et al.](https://doi.org/10.5194/acp-16-9163-2016)
 
 "A multi-model intercomparison of halogenated very short-lived substances (TransCom-VSLS): linking oceanic emissions and tropospheric transport for a reconciled estimate of the stratospheric source gas injection of bromine". 
 
