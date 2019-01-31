@@ -1,3 +1,10 @@
 # transcom_work
-ancils, data analysis scripts for TRANSCOM-VSLS
-ancillary creation from N96L85 and N48L60 from supplied netcdf files
+Scripts 
+
+* to process NetCDF into UM ancilary files, ancillary creation from N96L85 and N48L60 from supplied netcdf files
+
+* process data analysis
+
+for TRANSCOM-VSLS
+
+[![DOI](https://zenodo.org/badge/40649963.svg)](https://zenodo.org/badge/latestdoi/40649963)
